@@ -1,0 +1,10 @@
+leak_rate,topk,radius_m,hit_rate,n_leaked,tecnica
+0.01,3,200.0,0.0,2922,permutacao
+0.01,5,200.0,0.0,2922,permutacao
+0.01,10,200.0,0.0,2922,permutacao
+0.05,3,200.0,0.0,14611,permutacao
+0.05,5,200.0,0.0,14611,permutacao
+0.05,10,200.0,0.0,14611,permutacao
+0.1,3,200.0,0.0,29222,permutacao
+0.1,5,200.0,0.0,29222,permutacao
+0.1,10,200.0,0.0,29222,permutacao

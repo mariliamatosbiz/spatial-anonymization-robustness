@@ -1,0 +1,2 @@
+tecnica,AUC_ROC,Recall_Surto,Precision_Surto,F1_Surto,Balanced_Accuracy,N_teste,Positivos_teste,limiar_surto_P80
+generalizacao_dec1,0.6974789915966386,0.8235294117647058,0.7777777777777778,0.8,0.6260504201680672,24,17,474.0000000000001

@@ -1,0 +1,5 @@
+radius_m,avg_candidates,median_candidates,pct_unique_candidate,pct_zero_candidate,tecnica
+50,0.0,0.0,0.0,1.0,generalizacao_dec1
+100,0.0,0.0,0.0,1.0,generalizacao_dec1
+200,87.79523328827827,0.0,0.0,0.9987578489913939,generalizacao_dec1
+500,478.48953068592056,0.0,0.0,0.9932793813198282,generalizacao_dec1

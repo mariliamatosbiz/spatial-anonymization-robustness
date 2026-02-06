@@ -1,0 +1,10 @@
+leak_rate,radius_m,reid_rate,n_leaked,tecnica
+0.01,50,0.0,2922,permutacao
+0.01,100,0.0,2922,permutacao
+0.01,200,0.0,2922,permutacao
+0.05,50,0.0,14611,permutacao
+0.05,100,0.0,14611,permutacao
+0.05,200,0.0,14611,permutacao
+0.1,50,0.0,29222,permutacao
+0.1,100,0.0,29222,permutacao
+0.1,200,0.0,29222,permutacao
